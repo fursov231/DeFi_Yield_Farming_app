@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="WEB_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <content url="file://$MODULE_DIR$/../DeFi_Yield_Farming_App">
+      <excludeFolder url="file://$MODULE_DIR$/../DeFi_Yield_Farming_App/temp" />
+      <excludeFolder url="file://$MODULE_DIR$/../DeFi_Yield_Farming_App/.tmp" />
+      <excludeFolder url="file://$MODULE_DIR$/../DeFi_Yield_Farming_App/tmp" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
